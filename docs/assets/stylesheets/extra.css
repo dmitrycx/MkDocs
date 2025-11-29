@@ -1,0 +1,19 @@
+/* Larger logo in header */
+.md-header__button.md-logo {
+  padding: 0;
+  margin-right: 0.4rem;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 60px;
+  width: 180px;
+  object-fit: contain;
+}
+
+/* Light background behind logo for visibility */
+.md-header__button.md-logo {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 4px;
+  padding: 4px 8px;
+}
