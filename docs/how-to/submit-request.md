@@ -4,6 +4,12 @@ As a scheduler, you can create a request on behalf of users who may not have acc
 
 ![Create new request dialog](../assets/images/requests/submit-request.png)
 
+## Video Walkthrough
+
+<video controls width="100%">
+  <source src="/assets/videos/test-video.mp4" type="video/mp4">
+</video>
+
 ## Steps
 
 1. Select the **User** from either:
